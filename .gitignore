@@ -1,0 +1,7 @@
+.idea/
+
+.env/
+.environment/
+*.pyc
+
+settings/local.py
